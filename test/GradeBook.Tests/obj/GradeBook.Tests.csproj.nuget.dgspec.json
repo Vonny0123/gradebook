@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Code\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
+    "C:\\Code\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\DAVEA\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Code\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DAVEA\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,14 +54,14 @@
         }
       }
     },
-    "c:\\Code\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {
+    "C:\\Code\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+        "projectUniqueName": "C:\\Code\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
         "projectName": "GradeBook.Tests",
-        "projectPath": "c:\\Code\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+        "projectPath": "C:\\Code\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
         "packagesPath": "C:\\Users\\DAVEA\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\gradebook\\test\\GradeBook.Tests\\obj\\",
+        "outputPath": "C:\\Code\\gradebook\\test\\GradeBook.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DAVEA\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,8 +75,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-                "projectPath": "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj"
+              "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+                "projectPath": "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj"
               }
             }
           }

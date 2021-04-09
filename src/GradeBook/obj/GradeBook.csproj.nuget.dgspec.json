@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "c:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Code\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\DAVEA\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Code\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DAVEA\\AppData\\Roaming\\NuGet\\NuGet.Config"
